@@ -4,7 +4,8 @@
 project Perancangan ini memberikan keamanan berlapis karena trafik antar-segmen melewati router, efisiensi pengelolaan karena rute dipelajari otomatis, serta skalabilitas yang baik ketika jaringan bertambah besar. OSPF dirancang untuk mendukung jaringan berskala besar, sementara VLAN membuat pembagian jaringan tetap fleksibel tanpa mengubah instalasi kabel
 
 ## 🍳Topologi
-<img width="785" height="569" alt="topologi project mikrotik" src="https://github.com/user-attachments/assets/14f69ba4-4ce3-40fa-9e6f-41e16d844625" />
+<img width="804" height="586" alt="topologi project 2 mikrotik" src="https://github.com/user-attachments/assets/0af91b96-8d9f-4864-bcbb-a795495b65e1" />
+
 " />
 
 ## 🥠Media dan Konfigurasi Yang Akan Digunakan
